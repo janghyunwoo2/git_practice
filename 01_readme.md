@@ -15,7 +15,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/lim-dongsun/git_practice.git
+git remote add origin https://github.com/{blahblahblahblah}/git_practice.git
 git push -u origin main
 ```
 
