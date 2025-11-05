@@ -24,8 +24,6 @@
 
 ```
 
-
-
 # Git Flow
 
 https://medium.com/@yanminthwin/understanding-github-flow-and-git-flow-957bc6e12220
