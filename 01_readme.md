@@ -25,8 +25,10 @@ OR
 mkdir git_practice
 cd git_practice
 git clone https://github.com/lim-dongsun/git_practice.git .
+
+git status
 ```
-s
+
 
 
 ## Personal access tokens (classic)
