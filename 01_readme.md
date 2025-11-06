@@ -26,7 +26,7 @@ mkdir git_practice
 cd git_practice
 git clone https://github.com/lim-dongsun/git_practice.git .
 ```
-
+s
 
 
 ## Personal access tokens (classic)
